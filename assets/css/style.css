@@ -1,1 +1,20 @@
-/* This is a css file */
+.NameTable{
+    border: solid 1px #000;
+    border-collapse: collapse;
+}
+
+.HeadRow {
+       background-color: aqua;
+}
+
+.FirstRow{
+    background-color: aquamarine;
+}
+
+.SecondRow{
+    background-color: beige;
+}
+
+.ThirdRow{
+    background-color: rgb(192, 192, 86);
+}
